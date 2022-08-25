@@ -147,6 +147,10 @@ http://www.36nu.com/apiTest
 
 https://kvymin.github.io/CatVodTVJsonEditor/
 
+下边这个比较牛了，能加密，能解密：
+
+[hfr1107.github.io/catvodtvjsoneditor/](https://hfr1107.github.io/CatVodTVJsonEditor/)
+
 ## 给TVbox站源添加符号:
 
 很多人喜欢给TVbox的站源或者电视直播频道自定义一个符号，比如下面这类，实际上就是增加了网页符号。
@@ -170,7 +174,7 @@ https://github.com/cloudreve/Cloudreve
 
 巧技大佬仓库地址：https://gitea.com/qiaoji
 
-俊于大佬+唐三大佬+影魔大佬=官仓延续：
+于俊大佬+唐三大佬+影魔大佬=官仓延续：
 
 https://github.com/q215613905/TVBoxOS
 
@@ -178,7 +182,7 @@ pluto-player：不开源 A佬。魔改，改动大，功能多，能在线升级
 
 https://github.com/pluto-player/updates
 
-takagen99：解除**屏蔽
+takagen99：
 
 https://github.com/takagen99/TVBoxOSC
 
@@ -186,19 +190,29 @@ o0HalfLife0o：
 
 https://github.com/o0HalfLife0o/TVBoxOSC
 
+https://github.com/dlgt7/TVBoxOSC-o0HalfLife0o   上传作者分享的开源代码，有需要的自己fork回去修改。（2022-8-11）
+
 https://github.com/o0HalfLife0o/AlphaTV
 
 clanTV：
 
 https://github.com/clanTV/clanTV
 
-FongMi-TV
+FongMi-TV:
 
 https://github.com/FongMi/TV
+
+BearTV:
+
+https://github.com/haha459862/BearTV
 
 官仓：终结于2022年7月18日。封仓。
 
 https://github.com/CatVodTVOfficial/TVBoxOSC
+
+这两天讨论较多的六神TV版本仓库：
+
+https://gitea.com/y36369999/9
 
 ## 常用工具：
 
@@ -245,13 +259,18 @@ jar打包：在jar仓库里依次点击：actions-workflows-spider jar gen cl-ru
 
 jar打包成功实例仓库：仅供参考，自行添加新的，删除或者修改失效的。https://github.com/dlgt7/TvJar
 
-下载后看看大小，有时候下载显示1kb，确认jar正常后，多下载几次，大小正常即下载成功。
 
 Fork始点，地位特殊：https://github.com/Tangsan99999/TvJar
 
 https://github.com/Kimlee-cmd/TvJar
 
 https://github.com/Kvymin/CatVodTVSpider
+
+https://github.com/Kvymin/CatVod  
+
+传说中的T4类型，仓库地址如下，自己研究。
+
+https://github.com/sec-an/TV_Spider
 
 ## 电脑修改 apk 所需软件 
 
@@ -301,6 +320,13 @@ https://down.52pojie.cn/Tools/
 ![7](https://user-images.githubusercontent.com/102397160/182571486-1d78730b-0698-46cb-9af9-a4128eee8cd7.png)
 
 试试吧，不一定对。
+
+## 今天看到一个新的教程：
+【教程】Pluto player影视软件新姿势_无密码挂载alist_免费观看原画 
+
+8款网盘可同时挂载到Kodi播放器，支持Mac和Windows平台
+
+教程在仓库里：https://github.com/dlgt7/TVbox-interface  PDF文件格式，需下载查看，感觉不清楚的话，文件里写有教程出处，都是公众号文章。
 
 ### Stargazers over time
 
